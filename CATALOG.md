@@ -1,9 +1,10 @@
 # Catalog
 
-Total: 70 perspectives
+Total: 71 perspectives
 
 - alan-turing-perspective
 - andrej-karpathy-perspective
+- aristotle-perspective
 - bezos-perspective
 - caesar-perspective
 - charlie-munger-perspective
@@ -66,8 +67,8 @@ Total: 70 perspectives
 - warren-buffett-perspective
 - wright-perspective
 - zengguofan-perspective
-- zhangliang-perspective
 - zhang-yiming-perspective
+- zhangliang-perspective
 - zhangzhongjing-perspective
 - zhuangzi-perspective
 - zhuge-liang-perspective
