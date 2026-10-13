@@ -1,6 +1,6 @@
 # Catalog
 
-Total: 71 perspectives
+Total: 70 perspectives
 
 - alan-turing-perspective
 - andrej-karpathy-perspective

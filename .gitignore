@@ -8,3 +8,7 @@
 .env.*
 __pycache__/
 .DS_Store
+
+# 私有不公开（个人档案类，永不公开）
+_私有不公开/
+lin-perspective/
